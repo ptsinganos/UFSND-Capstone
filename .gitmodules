@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://git.heroku.com/ufsnd-casting-agency-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://git.heroku.com/ufsnd-casting-agency-frontend.git
